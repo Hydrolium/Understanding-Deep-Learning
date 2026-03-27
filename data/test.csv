@@ -1,0 +1,13 @@
+Result,Class,Difficulty,Score,Etc
+Win,Warrior,Hard,85,109
+Loss,Mage,Normal,40,107
+Win,Mage,Hard,90,111
+Win,Warrior,Normal,75,123
+Loss,Warrior,Hard,30,321
+Win,Archer,Easy,95,131
+Loss,Mage,Hard,20,261
+Win,Archer,Normal,80,521
+Win,Warrior,Hard,,233
+Loss,Archer,Hard,45,432
+Win,Mage,Normal,70,278
+Win,Warrior,Easy,60,186
